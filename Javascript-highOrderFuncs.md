@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=rRgD1yVwIvE
 ## Foreach : 
 - forEach() calls a provided function once for each element in an array in ascending index order.
 
--It's not executed for array elements without values (index properties that have been deleted or are uninitialized).
+- It's not executed for array elements without values (index properties that have been deleted or are uninitialized).
 
 
 
