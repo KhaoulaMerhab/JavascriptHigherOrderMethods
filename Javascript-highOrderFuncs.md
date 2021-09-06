@@ -79,9 +79,10 @@ https://www.youtube.com/watch?v=rRgD1yVwIvE
 ### Useful Links : 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
 
--https://www.w3schools.com/jsref/jsref_reduce.asp
+- https://www.w3schools.com/jsref/jsref_reduce.asp
 
--https://www.javascripttutorial.net/javascript-array-reduce/
+- https://www.javascripttutorial.net/javascript-array-reduce/
+
 
 
 
