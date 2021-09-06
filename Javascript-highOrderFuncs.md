@@ -1,8 +1,8 @@
 # Javascript higher order functions and methods : 
 
-Learn about the most powerful and most used methods in javascript , and learn how to use them in most of cases , that will help me solving a lot of problems with short and elegant way using ES6 arrow functions 😎😁.
+Learn the most powerful and most commonly used methods of JavaScript, and learn how to use them in most cases, which will help me solve a lot of problems in a short and elegant way using ES6 arraow functions 😎😁.
 
-**Note 0:** I highly recommend watching the traversy media tutorial on youtube , he explains these methods in a simple and clear way
+**Note 0 :** I highly recommend watching the traversy media tutorial on youtube , he explains these methods in a simple and clear way
 
 https://www.youtube.com/watch?v=rRgD1yVwIvE
 
