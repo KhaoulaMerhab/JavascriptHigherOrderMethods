@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=rRgD1yVwIvE
 ### Useful Links : 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 
-- https://www.w3schools.com/jsref/jsref_foreach.asp
+- [w3schools] (https://www.w3schools.com/jsref/jsref_foreach.asp)
 
 - https://www.javascripttutorial.net/javascript-array-foreach/
 
