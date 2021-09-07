@@ -37,11 +37,11 @@ https://www.youtube.com/watch?v=rRgD1yVwIvE
 
 
 ### Useful Links : 
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
-- https://www.w3schools.com/jsref/jsref_filter.asp
+- [w3schools](https://www.w3schools.com/jsref/jsref_filter.asp)
 
-- https://www.javascripttutorial.net/javascript-array-filter/
+- [JavaScript Tutorial](https://www.javascripttutorial.net/javascript-array-filter/)
 
 
 
@@ -52,22 +52,22 @@ https://www.youtube.com/watch?v=rRgD1yVwIvE
 
 
 ### Useful Links : 
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
-- https://www.w3schools.com/jsref/jsref_map.asp
+- [w3schools](https://www.w3schools.com/jsref/jsref_map.asp)
 
-- https://www.javascripttutorial.net/javascript-array-map/
+- [JavaScript Tutorial](https://www.javascripttutorial.net/javascript-array-map/)
 
 ## Sort : 
 - The sort() method allows you to sort elements of an array in place. Besides returning the sorted array, the sort() method changes the positions of the elements in the original array. 
 
 
 ### Useful Links : 
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 
-- https://www.w3schools.com/js/js_array_sort.asp
+- [w3schools](https://www.w3schools.com/js/js_array_sort.asp)
 
-- https://www.javascripttutorial.net/javascript-array-sort/
+- [JavaScript Tutorial](https://www.javascripttutorial.net/javascript-array-sort/)
 
 
 
@@ -77,11 +77,11 @@ https://www.youtube.com/watch?v=rRgD1yVwIvE
 - reduce() does not execute the function for empty array elements and does not change the original array.
 
 ### Useful Links : 
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 
-- https://www.w3schools.com/jsref/jsref_reduce.asp
+- [w3schools](https://www.w3schools.com/jsref/jsref_reduce.asp)
 
-- https://www.javascripttutorial.net/javascript-array-reduce/
+- [JavaScript Tutorial](https://www.javascripttutorial.net/javascript-array-reduce/)
 
 
 
